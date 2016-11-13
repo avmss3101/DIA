@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#define PI acos(-1);
+#define PI acos(-1)
 
 int main(int argc, char **argv)
 {
