@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#define PI acos(-1);
+#define PI acos(-1)
 
 using namespace std;
 
